@@ -1,0 +1,4 @@
+sources:
+  "0.2.0":
+    url: "https://github.com/yurirocha15/mcp-cpp-sdk/releases/download/v0.2.0/mcp-cpp-sdk-0.2.0.tar.gz"
+    sha256: "f2a7b11e3fbb6ed6e67b649950a4d6d8a766cf71b59fe5bc795c1cdcd38868b4"
